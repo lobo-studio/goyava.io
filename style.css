@@ -544,8 +544,10 @@ table {
     margin-top: 13px;
     font-family: 'samibold';
     height: 35px;
-
-
+}
+.proactives button a {
+    text-decoration: none;
+    color: #fff;
 }
 #myModal .modal-dialog{
     width: 100%;
