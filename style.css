@@ -347,6 +347,8 @@ table {
 
 .pricing-count button a {
     border: none;
+    padding: 0;
+    margin: 0;
 }
 
 .pricing-count button:hover, .pricing-count button:hover a {
