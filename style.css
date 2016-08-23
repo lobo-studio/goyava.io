@@ -332,7 +332,7 @@ table {
 .pricing-count-paragraph{
     min-height: 70px;
 }
-.pricing-count button{
+.pricing-count button, .pricing-count button a {
     background: #5a3d04;
     border: none;
     color: #fff;
@@ -344,10 +344,15 @@ table {
     transition: all 0.5s;
     border:1px solid #5a3d04;
 }
-.pricing-count button:hover{
+
+.pricing-count button a {
+    border: none;
+}
+
+.pricing-count button:hover, .pricing-count button:hover a {
+    text-decoration: none;
     background: #fff;
     color: #5a3d04;
-
 }
 .stay-in-touch-newsletter label{
     font-family: 'helveticalight';
