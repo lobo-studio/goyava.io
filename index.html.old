@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Goyava App - Loyalty Program and proximity commerce Platform.</title>
+    <title>Goyava</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootsrap -->
@@ -46,7 +46,7 @@
             <div class="col-md-12">
                 <div class="gayava-platform">
                     <h3>Reward and Loyalty Platform</h3>
-                    <h4>Keep your customers engaged and coming back! Goyava empowers small and medium business with tools only the big stores offers for less than a cup of coffee a month. </h4>
+                    <h4>Introducing lorem ipsum dolor sit amet </h4>
                 </div>
             </div>
         </div>
@@ -60,16 +60,19 @@
                     <div class="header-client-part client-right-part">
                         <img src="images/Group-5.png">
                         <h3>Client</h3>
-                        <p>Start earning rewards now! - Download the mobile app</p>
+                        <p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur</p>
                         <a href="#"><img src="images/button.png" class="gayava-button"></a>
                         <br>
-                        <span> or <a href="#">sign in</a> to web version</span>
+                        <form action="http://goyava.site/clients/login" method="post">
+                            <span> or <button type="submit" class="btn-text">sign in</button> to web version</span>
+                        </form>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="header-client-part">
                         <img src="images/kitchen.png">
-                        <h3>Merchant</h3>Make your clients happy and increase sales ! - Sign up</p>
+                        <h3>Merchant</h3>
+                        <p>Sed orci , pellentesque sit amet ante pharetra, fringilla efficitur mauris.</p>
                         <button class="sign_in">Sign in</button>
                     </div>
                 </div>
@@ -79,10 +82,10 @@
     <div class="col-md-10 col-md-offset-1">
         <div class="how-gayava-work" id="howIt">
             <h3>How <span> <img src="images/Gayavalogo.png"> </span> works?</h3>
-            <p>“Goyava is a proximity commerce and loyalty program application. It empowers users to find shops within their neighbourhoods to stimulate business within their communities and these in return reward users by providing points that can be traded into rewards.
-
-Keep your clients engaged, no IT setup, your clients never lose their points, get real-time statistics, create promotes and send them to your clients in a few clicks.”</p>
-            <a href="">Bolo Michelin. Goyava Inc.</a>
+            <p>“Integer et iaculis massa, vitae consectetur augue aliquet sed. Interdum et malesuada fames ac ante
+                ipsum primis in faucibus. Integer aliquet felis nec elit eleifend facilisis. Nunc egestas pulvinar
+                libero eget venenatis. Aenean eget aliquam tortor, vitae aliquet ante.”</p>
+            <a href="">Stephen Elop, Cool company lim.</a>
         </div>
     </div>
 </div>
@@ -94,11 +97,15 @@ Keep your clients engaged, no IT setup, your clients never lose their points, ge
                     <div class="gayava-list-item clearfix">
                         <div class="col-md-5">
                             <div class="gayava-content-left-part">
-                                <h1>Step 1</h1>
+                                <h1>lorem ipsum</h1>
                                 <h3>Buy a coffee</h3>
                                 <p>
-                                    Why stop at coffee? when you can collect rewards from everything you purchase in neighborhood. Goyava works with any type of industries or products 
-
+                                    Aliquam pellentesque tincidunt odio sit amet finibus. Mauris quis rhoncus purus. Sed
+                                    sit
+                                    amet
+                                    felis sit amet ante lobortis fermentum quis sit amet enim. Cras auctor dapibus
+                                    scelerisque.
+                                    Aliquam pellentesque tincidunt odio sit amet finibus. Mauris quis rhoncus purus.
                                 </p>
                             </div>
                         </div>
@@ -112,10 +119,16 @@ Keep your clients engaged, no IT setup, your clients never lose their points, ge
 
                         <div class="col-md-5">
                             <div class="gayava-content-left-part">
-                                <h1>Step 2</h1>
+                                <h1>tempus curat</h1>
                                 <h3>Take a shoot QR </h3>
                                 <p>
-                                    You create an account in a few simple steps, create your virtual card and rewards. Each reward generates a unique QR Code. When your customers purchase an item qualified for rewards, you scan the QR code(s)  and points are safely collected. The system is independent of your P.O.S. so there is not complex set up and the scan take less than a second.
+                                    Aliquam pellentesque tincidunt odio sit amet finibus. Mauris quis rhoncus purus.
+                                    Sed sit
+                                    amet felis sit amet ante lobortis fermentum quis sit amet enim. Cras auctor
+                                    dapibus
+                                    scelerisque. Aliquam pellentesque tincidunt odio sit amet finibus. Mauris quis
+                                    rhoncus
+                                    purus.
                                 </p>
                             </div>
                         </div>
@@ -128,10 +141,13 @@ Keep your clients engaged, no IT setup, your clients never lose their points, ge
                     <div class="gayava-list-item clearfix">
                         <div class="col-md-5">
                             <div class="gayava-content-left-part">
-                                <h1>Step 3</h1>
-                                <h3>Collect your stamp!</h3>
+                                <h1>victoria dolorem sit</h1>
+                                <h3>Collect a bonuses</h3>
                                 <p>
-                                    The more you shop with goyava the ore rewards you will collect and the more you will contribute the the wealth of your neighbourghood.
+                                    Aliquam pellentesque tincidunt odio sit amet finibus. Mauris quis rhoncus purus.
+                                    Sed sit amet felis sit amet ante lobortis fermentum quis sit amet enim. Cras
+                                    auctor dapibus scelerisque. Aliquam pellentesque tincidunt odio sit amet
+                                    finibus. Mauris quis rhoncus purus.
                                 </p>
                             </div>
                         </div>
@@ -157,12 +173,14 @@ Keep your clients engaged, no IT setup, your clients never lose their points, ge
                         <h3>Bronze</h3>
                         <h4>
                             <sup>$</sup>
-                            14<span> /mo</span></h4>
+                            39<span> /mo</span></h4>
                         <div class="pricing-count-paragraph">
                             <p>1x shop</p>
                             <p>100 clients</p>
                         </div>
-                        <a href="http://goyava.site/merchants/login"><button>Get started</button></a>
+                        <form action="http://goyava.site/merchants/login" method="post">
+                            <button type="submit">Get started</button>
+                        </form>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -172,12 +190,14 @@ Keep your clients engaged, no IT setup, your clients never lose their points, ge
                         <h3>Silver</h3>
                         <h4>
                             <sup>$</sup>
-                            49<span> /mo</span></h4>
+                            99<span> /mo</span></h4>
                         <div class="pricing-count-paragraph">
                             <p>Unlimited shop</p>
                             <p>Unlimited clients</p>
                         </div>
-                        <a href="http://goyava.site/merchants/login"><button>Get started</button></a>
+                        <form action="http://goyava.site/merchants/login" method="post">
+                            <button type="submit">Get started</button>
+                        </form>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -195,7 +215,9 @@ Keep your clients engaged, no IT setup, your clients never lose their points, ge
                             <p>500 API Signature request</p>
                         </div>
 
-                        <a href="http://goyava.site/merchants/login"><button>Get started</button></a>
+                        <form action="http://goyava.site/merchants/login" method="post">
+                            <button type="submit">Get started</button>
+                        </form>
                     </div>
                 </div>
             </div>
@@ -204,7 +226,7 @@ Keep your clients engaged, no IT setup, your clients never lose their points, ge
 </div>
 <div class="stay-in-touch clearfix" id="contact">
     <div class="stay-in-touch-top">
-        <h4>Need more info?</h4>
+        <h4>victoria dolorem art</h4>
         <h3>Stay in touch</h3>
     </div>
     <div class="col-md-10 col-md-offset-1">
@@ -280,7 +302,9 @@ Keep your clients engaged, no IT setup, your clients never lose their points, ge
                 <div class="proactives">
                     <h3>You're almost there</h3>
                     <h4>Authenticate your sign in and start collecting your rewards</h4>
-                    <button><a href="http://goyava.site/merchants/login">Authorize with proactives</a></button>
+                    <form action="http://goyava.site/merchants/login" method="post">
+                        <button type="submit">Authorize with proactives</button>
+                    </form>
                 </div>
 
             </div>
