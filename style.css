@@ -569,3 +569,16 @@ table {
     color:#fff;
     opacity:1;
 }
+
+button.btn-text {
+    display: inline;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+    color: #f9c01f;
+    font-weight: normal;
+    font-size: 14px;
+    font-family: 'gibsonregular';
+    width: auto;
+    padding: 0;
+}
