@@ -84,6 +84,11 @@ table {
     font-family: 'gibson-light';
     src: url('fonts/Gibson-Light.ttf');
 }
+
+input, textarea {
+    font-family: 'gibsonregular';
+}
+
 .gayava{
     background-color: #f9c01f;
     min-height: 600px;

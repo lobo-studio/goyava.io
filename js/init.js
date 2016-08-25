@@ -21,5 +21,17 @@ $(function () {
     $('.close').click(function () {
         $('#page').removeClass('add-blur')
     })
+
+    $('#contactSend').on('click', function () {
+        var data = {
+            email: $('#contactEmail').val(),
+            message: $('#contactMessage').val()
+        };
+
+        $.post('http://goyava.site/contacts', data)
+            .then(function () {
+                alert('Your message sent');
+            });
+    });
 });
 
